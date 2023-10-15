@@ -10,6 +10,7 @@
 | :------: | :----------------------------: |
 | 23-10-13 | 14916, 2753, 2606, 1789, 10815 |
 | 23-10-14 |          10870, 2748           |
+| 23-10-15 |             18352              |
 
 ### 알고리즘 별 기록
 
@@ -20,6 +21,6 @@
 |   [그래프 탐색](https://github.com/tony9402/baekjoon/tree/main/graph_traversal)    |        2606        |
 |      [이분탐색](https://github.com/tony9402/baekjoon/tree/main/binary_search)      |       10815        |
 | [동적계획법](https://github.com/tony9402/baekjoon/tree/main/dynamic_programming_1) |       10870        |
-|      [최단거리](https://github.com/tony9402/baekjoon/tree/main/shortest_path)      |
-|      [투 포인터](https://github.com/tony9402/baekjoon/tree/main/two_pointer)       |
+|      [최단거리](https://github.com/tony9402/baekjoon/tree/main/shortest_path)      |       18352        |
+|      [투 포인터](https://github.com/tony9402/baekjoon/tree/main/two_pointer)       |                    |
 |        [누적 합](https://github.com/tony9402/baekjoon/tree/main/prefix_sum)        |
