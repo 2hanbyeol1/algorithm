@@ -13,14 +13,14 @@
 | 23-10-15 |             18352              |
 | 23-10-16 |             11728              |
 | 23-10-17 |             14929              |
-| 23-10-18 |           1343, 5597           |
+| 23-10-18 |       1343, 5597, 20053        |
 
 ### 알고리즘 별 기록
 
 |                                      알고리즘                                      | 마지막으로 푼 문제 |
 | :--------------------------------------------------------------------------------: | :----------------: |
 |          [그리디](https://github.com/tony9402/baekjoon/tree/main/greedy)           |        1343        |
-|       [구현](https://github.com/tony9402/baekjoon/tree/main/implementation)        |     2753, 5597     |
+|       [구현](https://github.com/tony9402/baekjoon/tree/main/implementation)        |       20053        |
 |   [그래프 탐색](https://github.com/tony9402/baekjoon/tree/main/graph_traversal)    |        2606        |
 |      [이분탐색](https://github.com/tony9402/baekjoon/tree/main/binary_search)      |       10815        |
 | [동적계획법](https://github.com/tony9402/baekjoon/tree/main/dynamic_programming_1) |       10870        |
