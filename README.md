@@ -25,7 +25,7 @@
 |       [구현](https://github.com/tony9402/baekjoon/tree/main/implementation)        |       20053        |
 |   [그래프 탐색](https://github.com/tony9402/baekjoon/tree/main/graph_traversal)    |       11725        |
 |      [이분탐색](https://github.com/tony9402/baekjoon/tree/main/binary_search)      |       10815        |
-| [동적계획법](https://github.com/tony9402/baekjoon/tree/main/dynamic_programming_1) |       10870        |
+| [동적계획법](https://github.com/tony9402/baekjoon/tree/main/dynamic_programming_1) |        2748        |
 |      [최단거리](https://github.com/tony9402/baekjoon/tree/main/shortest_path)      |       18352        |
 |      [투 포인터](https://github.com/tony9402/baekjoon/tree/main/two_pointer)       |       11728        |
 |        [누적 합](https://github.com/tony9402/baekjoon/tree/main/prefix_sum)        |       14929        |
